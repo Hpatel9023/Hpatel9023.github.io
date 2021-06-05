@@ -6,7 +6,7 @@ description: I will be giving a few fun facts about me.
 nav: true
 ---
 
-<div class="publications">
+<div class="">
 
 {% for y in page.years %}
   <h2 class="year">{{y}}</h2>
